@@ -7,6 +7,11 @@
 ### Colab link
 https://colab.research.google.com/drive/1hbTYnKclJRcitQVyD_RRvwUWg67sCOz3?usp=sharing
 
+### Reference
+https://www.youtube.com/watch?v=6Egd-OMLLV4
+
+
+
 
 ------
 # TBD #
