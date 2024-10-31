@@ -39,8 +39,8 @@ Functions :
 
 #### Summary Statistics
 -----------
-![Exploratory data analysis_1](Summary_Stat.png)
-![Exploratory data analysis_2](Summary_age.png)
+![Exploratory data analysis_1](file/Summary_Stat.png)
+![Exploratory data analysis_2](file/Summary_age.png)
 
 #### Attrition analysis
 -----------
