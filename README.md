@@ -20,7 +20,6 @@ https://colab.research.google.com/drive/1hbTYnKclJRcitQVyD_RRvwUWg67sCOz3?usp=sh
 ### Connetcting Google Colab to Github
 1. Create a notebook in Google Colab
 2. Save the file via 'Save a copy in Guthub'
-    ![colab](file/colab_badge.png)
 3. Any change can be made directly in Google Colab and synced with GitHub
 
 --------------
